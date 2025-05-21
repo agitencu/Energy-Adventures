@@ -1,0 +1,54 @@
+# Energy Adventures 🌏⚡
+
+Energy Adventures is a game platform that aims to teach renewable energy sources in a fun way. This website aims to provide users with both fun and learning by playing renewable energy themed games. The project is developed using HTML and CSS and offers a user-friendly interface.
+
+## Features
+
+- **Educational Games:** Make learning fun with renewable energy themed games.
+- Card Matching Game
+- Sweet Energy
+- Word Game
+- Coming Soon: Wordle
+- **Game Reviews:** You can access detailed reviews of each game.
+- **User-Friendly Interface:** Menu designed for easy navigation and mobile-friendly design.
+- **Education and Entertainment Together:** Have fun while learning about renewable energy sources.
+
+## Installation and Operation
+
+This project can run directly in a browser without requiring any server. You can run the project by following these steps:
+
+1. Clone the repository or download it as a ZIP:
+2. Go to the project folder:
+3. Open the `index.html` file in a browser:
+
+- You can run it by double-clicking on the file or from a local server (e.g. VS Code Live Server).
+
+## Usage
+
+- On the homepage, you can find general information about renewable energy themed games and reviews.
+- You can access the content by going to the "Games" or "Game Reviews" sections from the menu.
+- For each game, there is a short description and a "Review" link (active links may be added in the future).
+- More interactivity can be added to the platform with the "Contact Us" and "Sign In" options.
+
+## Project Details
+
+- **Technologies:** HTML, CSS
+- **Designer:** Agit Encu
+- **Purpose:** To increase awareness of renewable energy and make education fun.
+- **Status:** Currently there is a static design for games and reviews. Dynamic content and JavaScript integration for games may be added in the future.
+
+## Contribute
+
+This project is open source. If you want to contribute:
+
+1. Fork the repository.
+2. Add new features or improve the current design (e.g. JavaScript code for games).
+3. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. For details, see the `LICENSE` file.
+
+## Contact
+
+For questions or suggestions, please contact [agtencu@gmail.com].

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Word Game</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Kelimeyi Tahmin Et</h1>
+      <div class="content">
+        <input type="text" class="typing-input" maxlength="1">
+        <div class="inputs"></div>
+        <div class="details">
+          <p class="hint">Soru : <span></span></p>
+          <p class="guess-left">Kalan Tahmin Hakkınız: <span></span></p>
+          <p class="wrong-letter">Yanlış Harfler: <span></span></p>
+          <h3>Süre : <span id="time">0</span></h3>
+        </div>
+        <button class="reset-btn">Sonraki Soru</button>
+      </div>
+    </div>
+
+    <script src="words.js"></script>
+    <script src="script.js"></script>
+
+  </body>
+</html>
